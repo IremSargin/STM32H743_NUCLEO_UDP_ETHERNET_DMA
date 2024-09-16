@@ -1,0 +1,3 @@
+../Core/Src/udp_echoserver.c:40:6:udp_echoserver_receive_callback	3
+../Core/Src/udp_echoserver.c:18:6:udp_echoserver_init	3
+../Core/Src/udp_echoserver.c:58:6:HAL_UARTEx_RxEventCallback	2
